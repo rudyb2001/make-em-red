@@ -1,0 +1,2 @@
+# make-em-red
+ In online textbooks (like Computer Networks: A Systems Approach), there sometimes doesn't exist the ability to parse keywords from the blurbs of text that make up chapters while taking notes. This extension will highlight the keywords as red, specified with an <em> tag in the textbook. This will improve the ability for me (and other students using this textbook of course) to take notes and get a preliminary understanding of the textbook content easier.
